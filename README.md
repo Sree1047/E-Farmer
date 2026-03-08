@@ -10,7 +10,7 @@
 <img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" />
 Author: 
 <strong>
-<a title="LinkedIn Mihail Pavlov" href="https://www.linkedin.com/in/mihail-georgiev-pavlov/" target="_blank">
+<a title="LinkedIn Mihail Pavlov" href="https://www.linkedin.com/in/sree-bhargav-reddy-daggula/" target="_blank">
 Mihail Pavlov
 </a>
 </strong></p>
