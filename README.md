@@ -6,11 +6,9 @@
 <h1><a href="https://github.com/mgpavlov/OnlineGroceryStore-Application">Online Grocery Store</a></h1>
 <h2>Developed an end to end e-Commerce web Application using Spring MVC.</h2>
 </td>
-<td align="center" width="33%"><img src="https://avatars0.githubusercontent.com/u/30524177?s=460&v=4" alt="" />
-<img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" />
 Author: 
 <strong>
-<a title="LinkedIn Mihail Pavlov" href="https://www.linkedin.com/in/sree-bhargav-reddy-daggula/" target="_blank">
+<a title="Sree Bhargav Reddy Daggula" href="https://www.linkedin.com/in/sree-bhargav-reddy-daggula/" target="_blank">
 Mihail Pavlov
 </a>
 </strong></p>
